@@ -1,0 +1,3 @@
+esta es mi primer linea de archivo de texto
+esta es mi segundo linea de archivo de texto
+	esta es mi tercer linea de archivo texto
